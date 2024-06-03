@@ -1,2 +1,2 @@
-İnternet Programcılığı ll | Final Projesi
+İnternet Programcılığı ll | Final Projesi / 
 Kitap Blog Sitesi | BookBLog
